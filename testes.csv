@@ -1,0 +1,66 @@
+campo, Mensagem Esperada!, entrada
+cpf,Cadastro realizado com sucesso!,84924916048
+cpf,Cadastro realizado com sucesso!,42906012009
+cpf,Cadastro realizado com sucesso!,718.306.250-39
+cpf,Cadastro realizado com sucesso!,017.979.220-25
+cpf,CPF inválido!,
+cpf,CPF inválido!,999
+cpf,CPF inválido!,99999999999
+cpf,CPF inválido!,12345678912
+cpf,CPF inválido!,abcdefghijk
+cpf,CPF inválido!,-----------
+cpf,CPF inválido!,eeeeeeeeeee
+cpf,CPF inválido!,@@@@@@@@@@@
+cpf,CPF inválido!,e41545986860
+cns,Cadastro realizado com sucesso!,264079175450002
+cns,Cadastro realizado com sucesso!,795641072880003
+cns,Cadastro realizado com sucesso!,2603.2223.0630-001
+cns,Cadastro realizado com sucesso!,1658.4943.9290-009
+cns,CNS inválido!,
+cns,CNS inválido!,999
+cns,CNS inválido!,999999999999999
+cns,CNS inválido!,123456781234567
+cns,CNS inválido!,abcdefghijklmno
+cns,CNS inválido!,---------------
+cns,CNS inválido!,eeeeeeeeeeeeeee
+cns,CNS inválido!,@@@@@@@@@@@@@@@
+cns,CNS inválido!,e264079175450002
+nome,Cadastro realizado com sucesso!,Rafael Correa Bitencourt
+nome,Cadastro realizado com sucesso!,Rafael Corrêa Bitencourt
+nome,Cadastro realizado com sucesso!,Eli Ruas
+nome,Nome inválido!,
+nome,Nome inválido!,valtinho da 2
+nome,Nome inválido!,123 456
+nome,Nome inválido!,a
+nome,Nome inválido!,a a
+data,Cadastro realizado com sucesso!,20/02/2004
+data,Cadastro realizado com sucesso!,29/02/2004
+data,Cadastro realizado com sucesso!,01/01/2001
+data,Data de nascimento inválida!,
+data,Data de nascimento inválida!,32/02/2004
+data,Data de nascimento inválida!,aa/bb/cccc
+data,Data de nascimento inválida!,20/02/2030
+data,Data de nascimento inválida!,29/02/2005
+sexo,Cadastro realizado com sucesso!,Masculino
+sexo,Cadastro realizado com sucesso!,Feminino
+sexo,Cadastro realizado com sucesso!,Não-Binário
+sexo,Cadastro realizado com sucesso!,xyz
+sexo,Sexo inválido!,
+residencial,Cadastro realizado com sucesso!,4833333333
+residencial,Cadastro realizado com sucesso!,48333333334
+residencial,Cadastro realizado com sucesso!,(48) 3333-3333
+residencial,Cadastro realizado com sucesso!,(48) 3333-33334
+residencial,Cadastro realizado com sucesso!,
+residencial,Telefone residencial inválido!,1
+residencial,Telefone residencial inválido!,123
+residencial,Telefone residencial inválido!,aaa
+residencial,Telefone residencial inválido!,1a2b3c
+residencial,Telefone residencial inválido!,@@@@@@@@@@
+residencial,Telefone residencial inválido!,---------------
+celular,Cadastro realizado com sucesso!,48999999999
+celular,Cadastro realizado com sucesso!,(48) 3333-3333
+celular,Cadastro realizado com sucesso!,(48) 3333-33334
+celular,Cadastro realizado com sucesso!,
+celular,Telefone celular inválido!,4899999999
+celular,Telefone celular inválido!,1
+celular,Telefone celular inválido!,123
